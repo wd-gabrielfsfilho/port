@@ -1,0 +1,5 @@
+Esquema de cores 1:
+	fundo- Amarelo 		#fcde67
+	texto- Preto 		#030e12
+	bloco- Azul neon	#5bccf6
+
