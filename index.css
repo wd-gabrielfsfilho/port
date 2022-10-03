@@ -29,7 +29,6 @@ a, span, p {
 
 a {
     text-decoration: none;
-    color: #030e12;
 }
 
 .bloco {
@@ -176,4 +175,8 @@ nav a {
 
 .quartobloco-bloco2 span {
     text-align: justify;
+}
+
+.quartobloco-bloco2 a {
+    color: #fcde67;
 }
