@@ -77,6 +77,10 @@ body {
 .espacamento-1 {
     padding: 25px;
 }
+
+.alinhamento-texto-justificado {
+    text-align: justify;
+}
 /* FIM DAS CONFIGURAÇÃO DOS PADROES DO SITE */
 
 
@@ -160,11 +164,8 @@ nav {
 }
 
 #quartobloco-bloco1 {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    align-items: flex-start;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
     gap: 25px;
 }
 
@@ -175,8 +176,6 @@ nav {
     justify-content: flex-start;
     align-items: center;
     gap: 25px;
-
-    width: 25%;
 }
 
 .quartobloco-bloco2 img {
@@ -227,18 +226,7 @@ nav {
 
     /* CONFIGURAÇÃO DO QUARTO BLOCO */
     #quartobloco-bloco1 {
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: flex-start;
-        gap: 50px;
-    }
-
-    .quartobloco-bloco2 {
-        width: 100%;
-    }
-
-    .quartobloco-bloco2 img {
-        width: 150px;
+        grid-template-columns: auto auto;
     }
 
     .quartobloco-bloco2 span {
