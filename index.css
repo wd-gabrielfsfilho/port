@@ -269,7 +269,13 @@ nav {
         font-size: 1.5em;
     }
 
+    /* CONFIGURAÇÃO DO QUARTO BLOCO */
     .terceirobloco-bloco2 img {
+        width: 75px;
+    }
+
+    /* CONFIGURAÇÃO DO QUARTO BLOCO */
+    .quartobloco-bloco2 img {
         width: 75px;
     }
 }
