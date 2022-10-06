@@ -99,9 +99,9 @@ nav {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
-    gap: 25px;
+    gap: 25px;  
 }
 
 #segundobloco p {
