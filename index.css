@@ -96,15 +96,8 @@ nav {
 
 /* CONFIGURAÇÃO DO SEGUNDO BLOCO */
 #segundobloco {
-<<<<<<< HEAD
     display: grid;
     grid-template-columns: auto 40%;
-=======
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
->>>>>>> a6dcd0978bc52c53b50f7a5c9584c61175dd1ad5
     align-items: center;
     gap: 25px;  
 }
