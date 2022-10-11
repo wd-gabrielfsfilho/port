@@ -1,0 +1,44 @@
+/* CONFIGURAÇÃO DO PRIMEIRO BLOCO */
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+
+
+
+/* CONFIGURAÇÃO DO SEGUNDO BLOCO */
+#segundobloco {
+    display: grid;
+    grid-template-columns: auto;
+    /* align-items: center; */
+    gap: 25px;
+}
+
+/* container do grupo */
+#segundobloco-bloco1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 25px;
+}
+
+/* container individual */
+.segundobloco-bloco2 {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 25px;
+
+    border: 1px solid #030e12;
+}
+
+/* configuração da imagem e descricao */
+.segundobloco-bloco2 img {
+    width: 100%;
+}
+
+.segundobloco-bloco2 span {
+    text-align: center;
+}
