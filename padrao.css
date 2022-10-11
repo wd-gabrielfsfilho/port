@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: auto;
+    gap: 25px;
+}
+
+
+
+/* CONFIGURAÇÃO DOS PADROES DA PAGINA */
+/* configuração de cores de fundo */
+.cor-fundo-1 {
+    background-color: #fcde67;
+}
+
+.cor-fundo-2 {
+    background-color: #5bccf6;
+}
+
+/* configuração de cores de texto */
+.cor-texto-1 {
+    color: #030e12;
+}
+
+.cor-texto-2 {
+    color: #fcde67;
+}
+
+/* configuração de fonte de titulos */
+.fonte-titulo-1 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.fonte-texto-1 {
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+/* configuração do tamanho dos titulos/textos */
+.tamanho-titulo-1 {
+    font-size: 3em;
+}
+
+.tamanho-titulo-2 {
+    font-size: 2em;
+}
+
+.tamanho-texto-1 {
+    font-size: 1.2em;
+}
+
+.tamanho-texto-2 {
+    font-size: 3.75em;
+}
+
+/* configuração de textos de links sem decoração */
+.sem-decoracao {
+    text-decoration: none;
+}
+
+/* configuração dos blocos da pagina */
+.bloco {
+    border-radius: 10px;
+
+    width: 100%;
+}
+
+.espacamento-1 {
+    padding: 25px;
+}
+
+.alinhamento-texto-justificado {
+    text-align: justify;
+}
+/* FIM DAS CONFIGURAÇÃO DOS PADROES DO SITE */
