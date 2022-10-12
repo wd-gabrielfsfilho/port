@@ -14,7 +14,6 @@ nav {
 #segundobloco {
     display: grid;
     grid-template-columns: auto;
-    /* align-items: center; */
     gap: 25px;
 }
 
@@ -31,7 +30,7 @@ nav {
     grid-template-columns: auto;
     gap: 25px;
 
-    border: 1px solid #030e12;
+    /* border: 1px solid #030e12; */
 }
 
 /* configuração da imagem e descricao */
@@ -39,6 +38,42 @@ nav {
     width: 100%;
 }
 
-.segundobloco-bloco2 span {
-    text-align: center;
+
+
+/* CONFIGURAÇÃO DO TERCEIRO BLOCO */
+#terceirobloco {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 25px;
+}
+
+#terceirobloco p {
+    text-align: justify;
+}
+
+/* container do grupo */
+#terceirobloco-bloco1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 25px;
+}
+
+/* container individual */
+.terceirobloco-bloco2 {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 25px;
+}
+
+/* configuração da imagem e descricao */
+.terceirobloco-bloco2 h2 {
+    text-align: justify;
+}
+
+.terceirobloco-bloco2 img {
+    width: 100%;
+}
+
+.terceirobloco-bloco2 span {
+    text-align: justify;
 }
