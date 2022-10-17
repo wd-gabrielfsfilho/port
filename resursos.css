@@ -58,6 +58,11 @@ nav {
     display: grid;
     grid-template-columns: auto;
     gap: 25px;
+
+    border: 1px solid #fcde67;
+    box-shadow: 5px 5px #fcde67;
+    border-radius: 10px;
+    padding: 5px;
 }
 
 .terceirobloco-bloco2 {
@@ -81,4 +86,59 @@ nav {
 .terceirobloco-bloco3 h2, .terceirobloco-bloco3 h3, .terceirobloco-bloco3 p {
     margin: 0;
     padding: 0;
+}
+
+
+
+
+/* CONFIGURAÇÃO DA MOBILIDADE DA PAGINA MEDIA */
+@media screen and (max-width: 1000px) {
+    /* configuração do tamanho dos titulos/textos */
+    .tamanho-titulo-1 {
+        font-size: 2em;
+    }
+
+    .tamanho-titulo-2 {
+        font-size: 1.5em;
+    }
+
+    .tamanho-titulo-3 {
+        font-size: 1.2em;
+    }
+
+    .tamanho-texto-1 {
+        font-size: 1.2em;
+    }
+
+    .tamanho-texto-2 {
+        font-size: 1.875em;
+    }
+
+}
+
+
+
+/* CONFIGURAÇÃO DA MOBILIDADE DA PAGINA PEQUENA */
+@media screen and (max-width: 600px) {
+    /* configuração do tamanho dos titulos/textos */
+    .tamanho-titulo-1 {
+        font-size: 1.5em;
+    }
+
+    .tamanho-titulo-2 {
+        font-size: 1.2em;
+    }
+
+    .tamanho-titulo-3 {
+        font-size: 1em;
+    }
+
+    .tamanho-texto-1 {
+        font-size: 1em;
+    }
+
+    .tamanho-texto-2 {
+        font-size: 1.5em;
+    }
+
 }
