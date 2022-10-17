@@ -1,0 +1,84 @@
+Consulta e organização de trabalhos
+W3 Schools
+https://www.w3schools.com/
+É um site profissional designado a ajudar profissionais sobre dúvidas com divesas tecnologias de desenvolvimento
+
+Github
+https://github.com/
+Permite que eu organize meus trabalhos em repositórios online onde colaboradores podem modificá-los, copiá-los e reutilizá-los
+
+
+Coleções de ferramentas de todos os tipos
+4Devs
+https://www.4devs.com.br/
+É um site que mantém dezenas de ferramentas de todos os tipos
+
+Undesign
+https://undesign.learn.uno/
+Mantém ferramentas e recursos de todos os tipos
+
+
+Trabalho com imagens/Ícones
+QRCode Monkey
+https://www.qrcode-monkey.com/pt/
+Permite a geração de códigos QR com as configurações de cor e aparência customizadas
+
+Deep AI - API de Colorização de Imagens
+https://deepai.org/machine-learning-model/colorizer
+Permite que imagens muito antigas sejam restauradas rapidamente com cores fieis às originais
+
+O Rasterbator
+https://rasterbator.net/
+Permite que seja criada utilizando uma imagem qualquer outra imagem em formato de pôster de qualquer tamanho utilizando apenas folhas A4
+
+Profile Pic Maker
+https://pfpmaker.com/
+Permite a criação de imagens de perfil utilizando uma simples foto
+
+Magic Eraser
+https://www.magiceraser.io/
+Permite que partes de uma imagens sejam removidas utilizando Inteligência Artificial
+
+BG Jar
+https://bgjar.com/
+Serviço online que permite a criação de imagens de fundo
+
+
+Trabalho com Fontes e Textos
+Google Fonts
+https://fonts.google.com/
+Permite a utilização de dezenas de fontes com aparências e tamanhos diferentes
+
+Artisan Themes
+https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/
+É um artigo online mostrando as 10 combinações do Google Fonts
+
+Reliable
+https://heyreliable.com/ultimate-google-font-pairings/
+É um artigo online da Lou Levit mostrando outras 50 combinações interessantes do Google Fonts
+
+Garett
+https://www.garett.co/21-google-fonts-combinations-for-websites-brands
+Mais um artigo mostrando 21 combinações do Google Fonts
+
+Pagecloud
+https://www.pagecloud.com/blog/best-google-fonts-pairings
+Outro artigo mostrando 50 combinações do Google Fonts
+
+My Fonts
+https://www.myfonts.com/pages/whatthefont
+É um serviço online que permite através de uma simples imagem identificar qual a fonte do texto contina na mesma
+
+
+Trabalho com Cores
+Visme
+https://visme.co/blog/website-color-schemes/
+Um artigo da Visme que tras 50 combinações de cores para a utilização nas mais diversas áreas gráficas
+
+Coolors
+https://coolors.co/
+Um serviço online que permite a geração de paletas de cores
+
+2 Quartos
+https://www.2quartos.com/roda-cores-complementares-como-usar-decoracao/
+Um artigo online do serviço 2 Quartos trazendo a explicação da psicologia das cores e roda de cores complementares
