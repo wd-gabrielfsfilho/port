@@ -45,6 +45,8 @@ nav {
     display: grid;
     grid-template-columns: 125px auto;
     gap: 25px;
+
+    align-items: center;
 }
 
 .terceirobloco-bloco2 img {

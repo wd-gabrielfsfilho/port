@@ -26,6 +26,7 @@ nav {
     display: grid;
     grid-template-columns: 125px auto;
     gap: 25px;
+    align-items: center;
 }
 
 .segundobloco-bloco2 img {
@@ -114,6 +115,10 @@ nav {
         font-size: 1.875em;
     }
 
+    /* CONFIGURAÇÃO DO TERCEIRO BLOCO */
+    .segundobloco-bloco2 {
+        grid-template-columns: 100px auto;
+    }
 }
 
 
@@ -141,4 +146,8 @@ nav {
         font-size: 1.5em;
     }
 
+    /* CONFIGURAÇÃO DO TERCEIRO BLOCO */
+    .segundobloco-bloco2 {
+        grid-template-columns: 75px auto;
+    }
 }
