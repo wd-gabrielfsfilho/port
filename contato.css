@@ -1,0 +1,23 @@
+/* CONFIGURAÇÃO DO PRIMEIRO BLOCO */
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+
+
+
+main {
+    padding: 50px;
+}
+
+#titulo {
+    text-align: center;
+}
+
+.detalhes {
+    display: block;
+}
